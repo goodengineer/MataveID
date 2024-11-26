@@ -1,6 +1,6 @@
 # AdaBoost
-AdaBoost is a simple algorithm for doing nonlinear binary classification with weak learners. The weak lerners in this AdaBoost algorithm is Decision Stumps.
-AdaBoost is not always more accurate compared to neural netorks or support vector machines, but AdaBoost with Decision Stumps are one of the fastest algorithms
+AdaBoost is a simple algorithm for doing nonlinear binary classification with weak learners. The weak lerners in this AdaBoost algorithm are Decision Stumps.
+AdaBoost is not always more accurate compared to neural networks or support vector machines, but AdaBoost with Decision Stumps are one of the fastest algorithms
 to do prediction with because they are not requried to need linear algebra for matrix multiplications.
 
 ```matlab
